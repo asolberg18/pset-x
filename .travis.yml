@@ -2,7 +2,7 @@
 # Update with current repo for code climate coverage testing
 env:
   global:
-    - CC_TEST_REPORTER_ID=Insert_CodeClimate_Reporter_ID_Here
+    - CC_TEST_REPORTER_ID=775504238b352c9fb51ee269efc917c47efdfc654c8266586d7fd45bed4bfb33
 
 language: python
 dist: xenial
