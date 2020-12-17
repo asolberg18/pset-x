@@ -15,7 +15,7 @@ pyarrow = "*"
 fastparquet = "*"
 aiohttp = "*"
 
-csci-utils = {editable = true,git = "git@github.com:csci-e-29/2020fa-csci-utils-asolberg18.git"}
+csci-utils = {editable = true, git = "https://github.com/csci-e-29/2020fa-csci-utils-asolberg18"}
 
 
 [requires]
