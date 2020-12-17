@@ -5,7 +5,7 @@
 
 from datetime import datetime
 from unittest import TestCase
-from elastic_logger.task_engine import TaskEngine
+from pset_x.task_engine import TaskEngine
 
 
 class MockLogger:
