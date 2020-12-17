@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.com/asolberg18/pset-x.svg?token=8b7y214fLCZnijNpb6Pv&branch=master)](https://travis-ci.com/asolberg18/pset-x)
+
 # Pset X
 
 Customizing our own Yeoman repo, and using it to complete a streaming data pipeline
