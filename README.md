@@ -1,5 +1,9 @@
 [![Build Status](https://travis-ci.com/asolberg18/pset-x.svg?token=8b7y214fLCZnijNpb6Pv&branch=master)](https://travis-ci.com/asolberg18/pset-x)
 
+[![Maintainability](https://api.codeclimate.com/v1/badges/1697bf141cb6fe23030a/maintainability)](https://codeclimate.com/github/asolberg18/pset-x/maintainability)
+
+[![Test Coverage](https://api.codeclimate.com/v1/badges/1697bf141cb6fe23030a/test_coverage)](https://codeclimate.com/github/asolberg18/pset-x/test_coverage)
+
 # Pset X
 
 Customizing our own Yeoman repo, and using it to complete a streaming data pipeline
