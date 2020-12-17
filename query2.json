@@ -1,0 +1,17 @@
+{
+    "size": 0,
+    "aggregations": {
+        "country": {
+            "terms": {
+                "field": "ua_country"
+            },
+            "aggregations": {
+                "browser": {
+                    "terms": {
+                        "field": "browser"
+                    }
+                }
+            }
+        }
+    }
+}

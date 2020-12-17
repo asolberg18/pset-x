@@ -1,0 +1,22 @@
+{
+    "size": 0,
+    "query": {
+        "range": {
+            "responseCode": {
+                "gte": 500,
+                "lte": 599
+            }
+        }
+    },
+    "aggregations": {
+        "url": {
+            "terms": {
+                "field": "url",
+                "size": 5,
+                "order": {
+                    "_count": "desc"
+                }
+            }
+        }
+    }
+}
